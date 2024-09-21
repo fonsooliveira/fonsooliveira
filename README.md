@@ -2,8 +2,7 @@
 
 ### About me
 
-- 🔭 I’m currently working on Front End Developer
-- I love play football and play videogame on my free time.
+- 🔭 I’m currently working on Software Engineer Mobile
 - Always trying to be a better version of myself.
 
 
